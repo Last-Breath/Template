@@ -1,0 +1,1 @@
+# OI common template code
